@@ -1,7 +1,3 @@
-
-
-
-
 <!-- Kgphisher -->
 
 <p align="center">
@@ -9,15 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.3.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KgHasan /Kgphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/KgHasan /Kgphisher ?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/KgHasan /Kgphisher ?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/KgHasan /Kgphisher ?color=teal&style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-KgHasan-blue?style=flat-square">
+  <img src="https://avatars.githubusercontent.com/u/112847065?v=4/badge/Author-KgHasan-blue?style=flat-square">
 </p>
 
 
@@ -120,7 +108,7 @@
 
 ### Find Me on:
 <p align="left">
-  <a href="https://www.facebook.com/kov.balo.cele.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
+  <a href="https://www.facebook.com/kov.balo.cele" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
   <a href="https://github.com/KgHasan" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
 </p>
 
@@ -134,3 +122,10 @@
 <table>
 
 <!-- // -->
+
+
+
+
+
+
+
